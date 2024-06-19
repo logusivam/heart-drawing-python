@@ -20,4 +20,4 @@ To run this project, you need:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/heart-drawing-python.git
+git clone https://github.com/logusivam/heart-drawing-python.git
