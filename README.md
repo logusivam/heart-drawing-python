@@ -21,3 +21,47 @@ To run this project, you need:
 
 ```bash
 git clone https://github.com/logusivam/heart-drawing-python.git
+```
+
+2. Navigate to the project directory:
+```
+cd heart-drawing-python
+```
+
+# Usage
+1. Run the Python script:
+```
+python heart_drawing.py
+```
+
+2. Follow the on-screen instructions to view the heart drawing.
+
+# Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
