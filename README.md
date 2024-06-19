@@ -31,7 +31,7 @@ cd heart-drawing-python
 # Usage
 1. Run the Python script:
 ```
-python heart_drawing.py
+python heart.py
 ```
 
 2. Follow the on-screen instructions to view the heart drawing.
